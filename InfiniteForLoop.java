@@ -1,7 +1,8 @@
 public class InfiniteForLoop {
     public static void main(String[]args){
-        for(;;){ //without condition by default it's infinite
+        for(;;){ 
             System.out.println("Hi");
         }
     }
 }
+//without condition by default it's become infinite
