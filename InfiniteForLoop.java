@@ -6,3 +6,4 @@ public class InfiniteForLoop {
     }
 }
 //without condition by default it's become infinite
+ 
